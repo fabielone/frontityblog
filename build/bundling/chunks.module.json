@@ -1,0 +1,81 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.1",
+  "hash": "1ee53e9bd2aaa12ff6c3",
+  "publicPath": "/static/",
+  "outputPath": "/home/fabie/frontityex/f-app/build/static",
+  "assetsByChunkName": {
+    "f-app": "f-app.module.js",
+    "list": "list.module.js"
+  },
+  "assets": [
+    {
+      "name": "f-app.module.js",
+      "size": 5070001,
+      "chunks": [
+        "f-app"
+      ],
+      "chunkNames": [
+        "f-app"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "list.module.js",
+      "size": 47521,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "f-app": {
+      "chunks": [
+        "f-app"
+      ],
+      "assets": [
+        "f-app.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "f-app": {
+      "chunks": [
+        "f-app"
+      ],
+      "assets": [
+        "f-app.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
